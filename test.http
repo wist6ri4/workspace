@@ -1,0 +1,9 @@
+### momotetsuAPI
+GET https://script.google.com/macros/s/AKfycbzvSlhngYRqQ_xKVZ5mF7S-sNbEeA7YIfnq9na1r7mUvmNp1ReOLXgNR0BnyipltU1T/exec
+
+### ポケモンAPI
+GET https://pokeapi.co/api/v2/pokemon/1
+
+
+### AWS
+GET http://169.254.169.254/latest/meta-data/
